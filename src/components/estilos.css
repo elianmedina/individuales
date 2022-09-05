@@ -1,0 +1,87 @@
+.titulos {
+    font-family: 'Trebuchet MS', 'Franklin Gothic Medium', Verdana, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 138px;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+
+.consignas {
+
+
+    display: flex;
+    align-items: center;
+}
+
+* {
+    font-family: 'Trebuchet MS', 'Franklin Gothic Medium', Verdana, Arial, sans-serif;
+    color: #000000;
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    text-align: center;
+}
+
+
+.number1 {
+    background-color: aquamarine;
+}
+
+.number2 {
+    background-color: antiquewhite;
+}
+
+.number3 {
+    background-color: rgb(202, 226, 96);
+}
+
+.number4 {
+    background-color: rgb(178, 77, 187);
+}
+
+.number5 {
+    background-color: rgb(233, 90, 71);
+}
+
+.number6 {
+    background-color: rgb(140, 128, 255);
+}
+
+.number7 {
+    background-color: aquamarine;
+}
+
+.number8 {
+    background-color: rgb(129, 90, 221);
+}
+
+.number9 {
+    background-color: rgb(184, 255, 155);
+}
+
+
+
+.number11 {
+    background-color: indianred;
+}
+
+.number12 {
+    background-color: dimgray;
+}
+
+#tableEstudiante {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#encabezado{
+    background-color: rosybrown;
+}
